@@ -1,0 +1,7 @@
+export const LOADING = "SHOWES/LOADING";
+export const FAILURE = "SHOWES/FAILURE";
+
+export const GET_SHOWS_SUCCESS = "SHOWES/GET_SHOWES_SUCCESS";
+export const COLLAPSE = "SHOWES/COLLAPSE";
+
+export const STAR_CHANGER = "SHOWES/STAR_CHANGER";
